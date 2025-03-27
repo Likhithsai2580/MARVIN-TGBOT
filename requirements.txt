@@ -1,0 +1,14 @@
+google-api-core
+google-api-python-client
+google-auth-httplib2
+google-auth-oauthlib
+google-genai
+gnews
+gradio_client
+pillow
+python-dotenv
+python-telegram-bot
+python-weather
+pytz
+requests
+python-telegram-bot[job-queue]
